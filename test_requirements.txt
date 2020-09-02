@@ -1,0 +1,6 @@
+coverage
+django-coverage
+flake8
+tox
+django
+selenium
